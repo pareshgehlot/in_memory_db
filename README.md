@@ -4,6 +4,7 @@ in memory database
 # instructions to run program
 git clone https://github.com/pareshgehlot/in_memory_db
 cd in_memory_db
+git checkout in_memory_db
 npm install
 node solution.js
 - ENTER COMMANDS LIKE: SET, UNSET, GET, NUMEQUALTO, END
