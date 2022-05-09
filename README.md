@@ -2,10 +2,10 @@
 in memory database 
 
 # instructions to run program
-git clone https://github.com/pareshgehlot/in_memory_db
-cd in_memory_db
-npm install
-node solution.js
+- git clone https://github.com/pareshgehlot/in_memory_db
+- cd in_memory_db
+- npm install
+- node solution.js
 - ENTER COMMANDS LIKE: SET, UNSET, GET, NUMEQUALTO, END
 - DESCRIPTION OF COMMANDS:
     - SET: set a variable
